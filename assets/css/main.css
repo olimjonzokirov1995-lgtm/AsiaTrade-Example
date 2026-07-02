@@ -1,4 +1,4 @@
-/**
+ /**
 * Template Name: Instant
 * Template URL: https://bootstrapmade.com/newtemplate-bootstrap-website-template/
 * Updated: Jul 07 2025 with Bootstrap v5.3.7
@@ -768,11 +768,16 @@ section,
 }
 
 
-
+  #product1{
+    visibility: hidden;
+  }
+  #product2{
+    visibility: hidden;
+  }
  
 
 .hero {
-  padding-top: 120px;
+  padding-top: 80px;
   min-height: 100vh;
   display: flex;
   align-items: center;
